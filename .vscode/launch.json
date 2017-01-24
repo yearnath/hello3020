@@ -12,13 +12,13 @@
             "environment": [],
             "externalConsole": true,
             "linux": {
-                "MIMode": "lldb",
+                "MIMode": "lldb"
             },
             "osx": {
                 "MIMode": "lldb"
             },
             "windows": {
-                "MIMode": "gdb",
+                "MIMode": "gdb"
             }
         },
         {
@@ -28,13 +28,13 @@
             "program": "enter program name, for example ${workspaceRoot}/a.out",
             "processId": "${command.pickProcess}",
             "linux": {
-                "MIMode": "lldb",
+                "MIMode": "lldb"
             },
             "osx": {
                 "MIMode": "lldb"
             },
             "windows": {
-                "MIMode": "gdb",
+                "MIMode": "gdb"
             }
         }
     ]
